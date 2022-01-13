@@ -1,4 +1,4 @@
-# Thu vien
+# ADD Thu vien
 pip install flask-wtf
 pip install flask-sqlalchemy
 pip install flask-migrate
